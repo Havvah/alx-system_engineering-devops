@@ -1,2 +1,2 @@
 #!/bin/bash
-Ichmod -R +x .
+chmod -R +x .
